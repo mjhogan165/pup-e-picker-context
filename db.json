@@ -1,38 +1,136 @@
 {
   "dogs": [
     {
-      "name": "Cydney",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "East Oro Bugatti South Supervisor Product cumbersome",
+      "name": "Malcolm",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "depose Northwest Peru hungrily East synthesizing itaque",
       "isFavorite": true,
+      "id": 0
+    },
+    {
+      "name": "Blanca",
+      "image": "/src/assets/dalmation.png",
+      "description": "Unbranded liberalize red sky Cambridgeshire",
+      "isFavorite": true,
+      "id": 1
+    },
+    {
+      "name": "Lenore",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "Northeast Intranet Hybrid District Classical",
+      "isFavorite": true,
+      "id": 2
+    },
+    {
+      "name": "Flavio",
+      "image": "/src/assets/boxer.png",
+      "description": "actually Modern Garden speedily Generic",
+      "isFavorite": false,
+      "id": 5
+    },
+    {
+      "name": "Lorna",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "Sleek Oregon butter Martinique Oriental male immediate Home",
+      "isFavorite": false,
       "id": 6
     },
     {
-      "name": "Jalon",
+      "name": "Lawson",
       "image": "/src/assets/blue-heeler.png",
-      "description": "Innovative Money Tuna Palladium Handmade Tricycle versus black",
+      "description": "Forward generating Lead payment Synchronised rejoice Bicycle",
       "isFavorite": false,
       "id": 7
     },
     {
-      "name": "Juanita",
-      "image": "/src/assets/dalmation.png",
-      "description": "redefine online feed bus unaccountably Hybrid Turnpike",
+      "name": "Abe",
+      "image": "/src/assets/blue-heeler.png",
+      "description": "Practical Usability dispossess Perris Cambridgeshire Electric occasion Hat",
+      "isFavorite": true,
+      "id": 8
+    },
+    {
+      "name": "Johann",
+      "image": "/src/assets/corgi.png",
+      "description": "strengthen Engineer East array Borders Quetzal Secured",
       "isFavorite": true,
       "id": 9
     },
     {
-      "name": "Laurine",
-      "image": "/src/assets/corgi.png",
-      "description": "Sausages pfft Rolls navigating male",
+      "name": "Jordon",
+      "image": "/src/assets/chihuahua.avif",
+      "description": "Optional solid Liaison about Legacy Chips Tactics",
       "isFavorite": true,
+      "id": 10
+    },
+    {
+      "name": "Delmer",
+      "image": "/src/assets/cowardly.png",
+      "description": "Checking Blues at Tools Brand female fuchsia Blues",
+      "isFavorite": false,
+      "id": 11
+    },
+    {
+      "name": "Karolann",
+      "image": "/src/assets/dalmation.png",
+      "description": "second Tasty magenta Polestar Borders",
+      "isFavorite": true,
+      "id": 12
+    },
+    {
+      "name": "Zoe",
+      "image": "/src/assets/corgi.png",
+      "description": "lead Bicycle functionalities SAS Borders digital bus discrete",
+      "isFavorite": true,
+      "id": 13
+    },
+    {
+      "name": "Eusebio",
+      "image": "/src/assets/dalmation.png",
+      "description": "directional Compatible Non parch grey Iodine necessary SQL",
+      "isFavorite": true,
+      "id": 14
+    },
+    {
+      "name": "Britney",
+      "image": "/src/assets/cowardly.png",
+      "description": "Haven Division grey Car Gorgeous seize Tesla",
+      "isFavorite": false,
+      "id": 15
+    },
+    {
+      "name": "Estel",
+      "image": "/src/assets/boxer.png",
+      "description": "Audi sign solid provident Southwest",
+      "isFavorite": false,
+      "id": 16
+    },
+    {
+      "name": "Jakayla",
+      "image": "/src/assets/corgi.png",
+      "description": "calculating Recycled overriding payment mint withdrawal Oklahoma",
+      "isFavorite": true,
+      "id": 17
+    },
+    {
+      "name": "Kailee",
+      "image": "/src/assets/cowardly.png",
+      "description": "ADP esse AI matrix Forward",
+      "isFavorite": false,
       "id": 18
     },
     {
-      "name": "Jim",
-      "description": "Jim is a dog, a very cute dog",
-      "isFavorite": false,
-      "image": "/src/assets/chihuahua.avif",
+      "name": "Titus",
+      "image": "/src/assets/boxer.png",
+      "description": "Gibraltar orange Cambridgeshire orange instruction",
+      "isFavorite": true,
+      "id": 19
+    },
+    {
+      "name": "fdgdfgdfg",
+      "description": "drgdfgdfgdfgdfgdfgdfg",
+      "isFavorite": true,
+      "image": "/src/assets/blue-heeler.png",
       "id": 20
     }
   ]

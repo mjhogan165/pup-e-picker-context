@@ -1,14 +1,18 @@
+import { useDogs } from "../providers/dog-provider";
 //! Get rid of all props except 'children' and 'label'
 export const Section = ({
   label, // do not delete
   children, // do not delete
-  onClickFavorited,
-  onClickUnfavorited,
-  onClickCreateDog,
-  showComponent,
-  favoriteDogCount,
-  unfavoriteDogCount,
 }) => {
+  const {
+    showComponent,
+    onClickFavorited,
+    onClickUnfavorited,
+    favoriteDogCount,
+    unfavoriteDogCount,
+    onClickCreateDog,
+  } = useDogs();
+
   return (
     <section>
       <div className="container-header">
